@@ -15,4 +15,4 @@ A Machine Learning project to predict Formula 1 lap times using telemetry and hi
 5. Train model: `python src/train_model.py`
 
 ## Current Performance
-- Baseline Random Forest MAE: ~13.08 seconds
+- Baseline Random Forest MAE: ~9 seconds
